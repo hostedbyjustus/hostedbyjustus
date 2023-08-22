@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hostedbyjustus
-- 🌱 I’m currently learning Xcode for Legacy iOS development
+- 🌱 I’m currently doing Supercell private server stuff...
 - 📫 Discord: justus61
 
 <!---
