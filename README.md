@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hostedbyjustus
-- 🌱 I’m currently doing Supercell private server stuff...
+- 🌱 I’m currently doing lurking...
 - 📫 Discord: justus61
 
 <!---
