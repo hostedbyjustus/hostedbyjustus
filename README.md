@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @hostedbyjustus
+- 👋 Hi, I’m Justus
 - 🌱 I’m currently helping here and there, though I'm mainly lurking
 - 📫 Discord: justus61
